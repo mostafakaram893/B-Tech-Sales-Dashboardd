@@ -44,4 +44,4 @@ This project is built on the **Superstore sample dataset** (5,901 order lines, 2
 ## How to View
 
 1. Download `sales.pbix` from this repo.
-2. Open it in **Power BI Desktop**.
+2. Open it in **Power BI Desktop** and use the page navigation buttons at the top.
